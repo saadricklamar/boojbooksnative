@@ -2,9 +2,9 @@
 
 *Beware of the person of one book. -- Thomas Aquinas*
 ## Task
-Compose a site using the [Laravel](https://laravel.com/) framework that allows the user to create a list of books they would like to read. Users should be able to perform the following actions:
+Compose a native application using the [Laravel](https://laravel.com/) framework and Nativescript(https://www.nativescript.org/) that allows the user to create a list of books they would like to read. Requirements
 * Create a books API using Laravel
-* Create Postman collection and Vue app OR Laravel App 
+* Create a Nativescript app that allows the user to
 * Add or remove books from the list
 * Change the order of the books in the list
 * Sort the list of books by their author
