@@ -2,7 +2,9 @@
 
 *Beware of the person of one book. -- Thomas Aquinas*
 ## Task
-Compose a native application using the [Laravel](https://laravel.com/) framework and Nativescript (https://www.nativescript.org/) that allows the user to create a list of books they would like to read. Requirements
+Compose a native application using the [Laravel](https://laravel.com/) framework and Nativescript (https://www.nativescript.org/) that allows the user to create a list of books they would like to read. Please fork this repo.
+
+Requirements
 * Create a books API using Laravel
 * Create a Nativescript Vue app that allows the user to
 * Add or remove books from the list
