@@ -1,10 +1,11 @@
 # booj books native
 
-*Beware of the person of one book. -- Thomas Aquinas*
-## Task
-Compose a native application using the [Laravel](https://laravel.com/) framework and Nativescript (https://www.nativescript.org/) that allows the user to create a list of books they would like to read. Please fork this repo.
+Booj's Book List is a take home project given to me by Remax/Booj. 
 
-Requirements
+## Task
+
+The task was as follows: 
+
 * Create a books API using Laravel
 * Create a Nativescript Vue app that allows the user to
 * Add or remove books from the list
@@ -13,3 +14,21 @@ Requirements
 * Display a book detail page with a minimum of author, publication date, and title
 * Include unit tests
 * Deploy it on the cloud - be prepared to describe your process on deployment
+
+## Repositories 
+
+[Front End Repo](https://github.com/saadricklamar/booj-books)
+
+[Back End Repo](https://github.com/saadricklamar/boojbooklist)
+
+## Tech Stack
+
+* Laravel
+* NativeScript Vue
+* Sequel Pro
+* Jest/Enzyme
+
+
+## Challenges
+
+The first hurdle of this project was setting up the environments for Laravel and NativeScript Vue. Laravel system requirements include PHP, mysql, Apache, and Composer. NativeScript Vue, not to be confused with Vue Native, requires the latest versin of Xcode, CocoaPods, and the six Python package. In addition, for simulation during the build process, the NativeScript Playground and Preview apps can be downloaded to see the app live on your mobile device as you build it. 
