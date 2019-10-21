@@ -17,9 +17,9 @@ The task was as follows:
 
 ## Repositories 
 
-[Front End Repo](https://github.com/saadricklamar/booj-books)
+[Front End Repo](https://github.com/saadricklamar/booj-books) (Built with NativeScript Vue)
 
-[Back End Repo](https://github.com/saadricklamar/boojbooklist)
+[Back End Repo](https://github.com/saadricklamar/boojbooklist) (Built with Laravel)
 
 ## Tech Stack
 
