@@ -9,9 +9,9 @@ The task was as follows:
 * Create a books API using Laravel
 * Create a Nativescript Vue app that allows the user to
 * Add or remove books from the list
-* Change the order of the books in the list
-* Sort the list of books by their author
-* Display a book detail page with a minimum of author, publication date, and title
+* Change the order of the books in the list (DONE)
+* Sort the list of books by their author (DONE)
+* Display a book detail page with a minimum of author, publication date, and title (DONE)
 * Include unit tests
 * Deploy it on the cloud - be prepared to describe your process on deployment
 
