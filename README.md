@@ -30,6 +30,3 @@ The task was as follows:
 * NativeScript Playground & Preview (as simulator)
 
 
-## Challenges
-
-The first hurdle of this project was setting up the environments for Laravel and NativeScript Vue. Laravel system requirements include PHP, mysql, Apache, and Composer. NativeScript Vue, not to be confused with Vue Native, requires the latest versin of Xcode, CocoaPods, and the six Python package. In addition, for simulation during the build process, the NativeScript Playground and Preview apps can be downloaded to see the app live on your mobile device as you build it. 
